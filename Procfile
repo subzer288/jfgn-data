@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* com.jfgn.JfgnApplication
+web: java -jar target/jfgn-0.0.1-SNAPSHOT.jar
